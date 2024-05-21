@@ -54,11 +54,11 @@ async def huhh(client: Client, message: Message):
 
 
 
-@app.on_message(filters.command(["محمد","ميدو"], ""), group=221212)
+@app.on_message(filters.command(["مطور السورس"], ""), group=221212)
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/cec3ed930abf838dca18f.jpg",
-        caption=f"""• ⌯ Developer Name : ˛ 𝙼𝙰𝚉𝙴𝙽 ⌯ •\n- Devloper Username : @Y_D_ll Devloper id : 6092147148 ⋅""",
+        caption=f"""• ⌯ Developer Name : ˛ ꪔ᥆ɦᥲꪔᥱძ ⌯ •\n- Devloper Username : @Y_D_ll Devloper id : 6092147148 ⋅""",
         reply_markup=InlineKeyboardMarkup(
         [
             [
