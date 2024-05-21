@@ -42,12 +42,12 @@ async def huhh(client: Client, message: Message):
                         "‹ 𝐃𝐄𝐕.𝐒𝐎𝐔𝐑𝐂𝐄 › ", url=f"https://t.me/Y_D_ll"),
                 ],[
                     InlineKeyboardButton(
-                        "‹ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐎𝑳𝐈𝐕𝐄𝐀 ›", url=f"https://t.me/SOURCE_EROR"), 
+                        "‹ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐄𝐑𝐎𝐑 ›", url=f"https://t.me/SOURCE_EROR"), 
                     InlineKeyboardButton(
                         "‹ 𝐒𝐔𝐏𝐏𝐔𝐑𝐓 ›", url=f"https://t.me/SOPER_EROR"),
                 ],[
                     InlineKeyboardButton(
-                        "‹ اضف بوت السورس الي مجموعتك ⚡️ ⋅ ›", url=f"http://t.me/V_E_PBot?startgroup=new"),
+                        "‹ اضف بوت السورس الي مجموعتك ⚡️ ⋅ ›", url=f"http://t.me/d_r_n_bot?startgroup=new"),
             ]
         ]
          ),parse_mode=enums.ParseMode.MARKDOWN)
