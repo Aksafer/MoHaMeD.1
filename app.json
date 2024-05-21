@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "⦗ https://my.telegram.org ⦘ ↫ اي بي ايدي للمطور احصل هليه من هنا",
-        "value": "29380940",
+        "value": "29303355",
         "required": true
       },
       "API_HASH": {
         "description": "⦗ https://my.telegram.org ⦘ ↫ اي بي هاش للمطور احصل هليه من هنا",
-        "value": "a0d123fa03f3bf5e3942301ef74c04ab",
+        "value": "3497383a173bc579a19ae3ca2f8c6114",
         "required": true
       },
       "BOT_TOKEN": {
@@ -33,8 +33,8 @@
         "required": true
       },
       "OWNER_ID": {
-        "description": "⦗ 6816180621 ⦘ ↫ ايدي المطور للبوت",
-        "value": "6816180621",
+        "description": "⦗ 6092147148 ⦘ ↫ ايدي المطور للبوت",
+        "value": "6092147148",
         "required": true
       },
       "STRING_SESSION": {
@@ -44,7 +44,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "⦗ https://dashboard.heroku.com/account ⦘ ↫ كود Apk هيروكو احصل عليه من هنا ",
-        "value": "d8390701-c1c3-4362-a6f7-69cf71d2edde",
+        "value": "HRKU-cb46f8a2-cfcf-4830-a8c6-463f5836612b",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": " ايدي جروب السجل وحط قبل الايدي -100 ",
-        "value": "-1002116081436",
+        "value": "-1002078123495",
         "required": true
       }
     },
