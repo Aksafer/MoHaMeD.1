@@ -61,12 +61,12 @@ def stream_markup_timer(_, chat_id, played, dur):
                 callback_data="GetTimer",
             )
         ],[
-            InlineKeyboardButton(text="⦗ استأناف ▷ ⦘", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="⦗ ايقاف مؤقت II ⦘", callback_data=f"ADMIN Pause|{chat_id}"),
-            InlineKeyboardButton(text="⦗ إعادة تشغيل ↻ ⦘", callback_data=f"ADMIN Replay|{chat_id}"),
+            InlineKeyboardButton(text="⦗ ▷ ⦘", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(text="⦗ II ⦘", callback_data=f"ADMIN Pause|{chat_id}"),
+            InlineKeyboardButton(text="⦗ ↻ ⦘", callback_data=f"ADMIN Replay|{chat_id}"),
         ],[
-            InlineKeyboardButton(text="⦗ تخطي ‣‣I ⦘", callback_data=f"ADMIN Skip|{chat_id}"),
-            InlineKeyboardButton(text="⦗ ايقاف ▢ ⦘", callback_data=f"ADMIN Stop|{chat_id}"),
+            InlineKeyboardButton(text="⦗ ‣‣I ⦘", callback_data=f"ADMIN Skip|{chat_id}"),
+            InlineKeyboardButton(text="⦗ ▢ ⦘", callback_data=f"ADMIN Stop|{chat_id}"),
         ],[
             InlineKeyboardButton(text="َِ᧗َِ᥆َِꫝُِꪖَِ᧗ُِ꧖ُِᦔ", url=f"https://t.me/Y_D_ll"),
         ],[
@@ -78,12 +78,12 @@ def stream_markup_timer(_, chat_id, played, dur):
 def stream_markup(_, chat_id):
     buttons = [
         [
-            InlineKeyboardButton(text="⦗ استأناف ▷ ⦘", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="⦗ ايقاف مؤقت II ⦘", callback_data=f"ADMIN Pause|{chat_id}"),
-            InlineKeyboardButton(text="⦗ إعادة تشغيل ↻ ⦘", callback_data=f"ADMIN Replay|{chat_id}"),
+            InlineKeyboardButton(text="⦗ ▷ ⦘", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(text="⦗ II ⦘", callback_data=f"ADMIN Pause|{chat_id}"),
+            InlineKeyboardButton(text="⦗ ↻ ⦘", callback_data=f"ADMIN Replay|{chat_id}"),
         ],[
-            InlineKeyboardButton(text="⦗ تخطي ‣‣I ⦘", callback_data=f"ADMIN Skip|{chat_id}"),
-            InlineKeyboardButton(text="⦗ ايقاف ▢ ⦘", callback_data=f"ADMIN Stop|{chat_id}"),
+            InlineKeyboardButton(text="⦗ ‣‣I ⦘", callback_data=f"ADMIN Skip|{chat_id}"),
+            InlineKeyboardButton(text="⦗ ▢ ⦘", callback_data=f"ADMIN Stop|{chat_id}"),
         ],[
             InlineKeyboardButton(text="َِ᧗َِ᥆َِꫝُِꪖَِ᧗ُِ꧖ُِᦔ", url=f"https://t.me/Y_D_ll"),
         ],[
