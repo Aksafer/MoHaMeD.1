@@ -17,10 +17,10 @@ def start_panel(_):
 
 def private_panel(_):
     buttons = [
-        [InlineKeyboardButton(text="الاوامر ⚙", callback_data="settings_back_helper")],
+        [InlineKeyboardButton(text="الاوامـر 🌿 ", callback_data="settings_back_helper")],
         [
-            InlineKeyboardButton(text="المطور ⋅", user_id=config.OWNER_ID),
-            InlineKeyboardButton(text="قناة السورس ⋅", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="الـمـطـور 🌿 ", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="قـنـاة الـسـورس 🌿 ", url=config.SUPPORT_CHANNEL),
         ],
     [
             InlineKeyboardButton(
