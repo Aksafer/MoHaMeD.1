@@ -39,10 +39,10 @@ async def huhh(client: Client, message: Message):
         [
             [
                     InlineKeyboardButton(
-                        "‹ 𝐃𝐄𝐕.𝐒𝐎𝐔𝐑𝐂𝐄 › ", url=f"https://t.me/Y_D_ll"),
+                        "‹ 𝐃𝐄𝐕 𝐒𝐎𝐔𝐑𝐂𝐄 › ", url=f"https://t.me/Y_D_ll"),
                 ],[
                     InlineKeyboardButton(
-                        "‹ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐄𝐑𝐎𝐑 ›", url=f"https://t.me/SOURCE_EROR"), 
+                        "‹ 𝐒𝐎𝐔𝐑𝐂𝐄 ›", url=f"https://t.me/SOURCE_EROR"), 
                     InlineKeyboardButton(
                         "‹ 𝐒𝐔𝐏𝐏𝐔𝐑𝐓 ›", url=f"https://t.me/SOPER_EROR"),
                 ],[
